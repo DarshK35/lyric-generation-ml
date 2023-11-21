@@ -52,7 +52,7 @@ To run the repository, simply open the file `CodeTesting.ipynb` in Jupyter or Vi
 
 The required python libraries can be installed by passing the following command in the terminal:
 ```bash
-	pip install numpy pandas pickle seaborn matplotlib wordcloud tensorflow[and-cuda] keras gensim langdetect sentence_transformers scikit-learn jupyter
+pip install numpy pandas pickle seaborn matplotlib wordcloud tensorflow[and-cuda] keras gensim langdetect sentence_transformers scikit-learn jupyter
 ```
 
 Then you can run the code from the code cells.
