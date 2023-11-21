@@ -33,7 +33,8 @@ RAM: At least 16 GB
 * Nvidia CUDA 12.2
 * Nvidia CUDNN 8.7
 
-**It is recommended to run this code on Linux operating system since Windows version of TensorFlow lacks GPU acceleration and requires WSL2 to enable it.**  
+**It is recommended to run this code on Linux operating system.**  
+**Windows version of TensorFlow lacks GPU acceleration and requires WSL2 to enable it.**  
 **WSL rapidly increases the CPU and RAM resource comsumption.**  
 
 ## Testing System Specifications
